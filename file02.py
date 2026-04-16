@@ -17,4 +17,4 @@ def reverse_stack(input_string):
 
 if __name__ == "__main__":
     input_string = input("Enter a string: ")
-    print(type(reverse_stack(input_string)))
+    print((reverse_stack(input_string)))
